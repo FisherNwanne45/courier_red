@@ -1,0 +1,27 @@
+[27-Apr-2022 21:07:56 America/New_York] PHP Notice:  Undefined index: login_name in /home/shipdrxk/public_html/book/admin/topbar.php on line 24
+[27-Apr-2022 21:07:56 America/New_York] PHP Notice:  Undefined index: login_type in /home/shipdrxk/public_html/book/admin/navbar.php on line 13
+[27-Apr-2022 21:07:56 America/New_York] PHP Notice:  Undefined index: login_type in /home/shipdrxk/public_html/book/admin/home.php on line 17
+[27-Apr-2022 21:07:56 America/New_York] PHP Notice:  Undefined index: login_name in /home/shipdrxk/public_html/book/admin/home.php on line 17
+[27-Apr-2022 21:09:37 America/New_York] PHP Fatal error:  Call to undefined method Action::delete_user() in /home/shipdrxk/public_html/book/admin/ajax.php on line 33
+[27-Apr-2022 21:10:22 America/New_York] PHP Fatal error:  Call to undefined method Action::delete_user() in /home/shipdrxk/public_html/book/admin/ajax.php on line 33
+[27-Apr-2022 21:16:47 America/New_York] PHP Fatal error:  Call to undefined method Action::delete_user() in /home/shipdrxk/public_html/book/admin/ajax.php on line 33
+[30-Apr-2022 18:57:43 America/New_York] PHP Notice:  Undefined index: login_name in /home/shipdrxk/public_html/book/admin/topbar.php on line 24
+[30-Apr-2022 18:57:43 America/New_York] PHP Notice:  Undefined index: login_type in /home/shipdrxk/public_html/book/admin/navbar.php on line 13
+[03-May-2022 18:55:03 America/New_York] PHP Fatal error:  Call to undefined method Action::delete_user() in /home/shipdrxk/public_html/book/admin/ajax.php on line 33
+[05-May-2022 01:08:15 America/New_York] PHP Notice:  Undefined index: login_name in /home/shipdrxk/public_html/book/admin/topbar.php on line 24
+[05-May-2022 01:08:15 America/New_York] PHP Notice:  Undefined index: login_type in /home/shipdrxk/public_html/book/admin/navbar.php on line 13
+[05-May-2022 01:30:56 America/New_York] PHP Fatal error:  Call to undefined method Action::delete_booked() in /home/shipdrxk/public_html/book/admin/ajax.php on line 88
+[05-May-2022 01:32:04 America/New_York] PHP Fatal error:  Call to undefined method Action::delete_booked() in /home/shipdrxk/public_html/book/admin/ajax.php on line 88
+[05-May-2022 01:32:31 America/New_York] PHP Fatal error:  Call to undefined method Action::delete_booked() in /home/shipdrxk/public_html/book/admin/ajax.php on line 88
+[05-May-2022 02:13:48 America/New_York] PHP Notice:  Undefined index: login_name in /home/shipdrxk/public_html/book/admin/topbar.php on line 24
+[05-May-2022 02:13:48 America/New_York] PHP Notice:  Undefined index: login_type in /home/shipdrxk/public_html/book/admin/navbar.php on line 13
+[05-May-2022 03:18:10 America/New_York] PHP Notice:  Undefined index: email in /home/shipdrxk/public_html/book/admin/ajax.php on line 99
+[05-May-2022 03:18:10 America/New_York] PHP Notice:  Undefined index: name in /home/shipdrxk/public_html/book/admin/ajax.php on line 100
+[05-May-2022 03:18:10 America/New_York] PHP Notice:  Undefined index: contact in /home/shipdrxk/public_html/book/admin/ajax.php on line 101
+[05-May-2022 03:18:10 America/New_York] PHP Notice:  Undefined index: address in /home/shipdrxk/public_html/book/admin/ajax.php on line 102
+[05-May-2022 03:18:10 America/New_York] PHP Notice:  Undefined variable: name in /home/shipdrxk/public_html/book/admin/admin_class.php on line 209
+[05-May-2022 03:18:10 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/shipdrxk/public_html/book/admin/admin_class.php on line 209
+[05-May-2022 04:12:12 America/New_York] PHP Fatal error:  Call to undefined method Action::delete_user() in /home/shipdrxk/public_html/book/admin/ajax.php on line 34
+[05-May-2022 13:54:47 America/New_York] PHP Notice:  Undefined index: login_name in /home/shipdrxk/public_html/book/admin/topbar.php on line 24
+[05-May-2022 13:54:47 America/New_York] PHP Notice:  Undefined index: login_type in /home/shipdrxk/public_html/book/admin/navbar.php on line 13
+[21-Oct-2022 11:43:39 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'shipdrxk_fl'@'localhost' (using password: YES) in /home/swedprbc/emiratelogistics.org/book/admin/db_connect.php on line 3

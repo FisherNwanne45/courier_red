@@ -1,0 +1,30 @@
+[10-Mar-2023 17:05:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'auromisr_cr'@'localhost' (using password: YES) in /home/blscehjd/public_html/resources/config.php on line 8
+[11-Jun-2023 17:49:22 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'blscehjd_bc'@'localhost' (using password: YES) in /home/crosekoh/joesmovingandstorage.com/resources/config.php on line 8
+[01-Jul-2023 14:58:27 America/New_York] PHP Warning:  A non-numeric value encountered in /home/crosekoh/joesmovingandstorage.com/contacts.php on line 293
+[01-Jul-2023 14:58:27 America/New_York] PHP Warning:  A non-numeric value encountered in /home/crosekoh/joesmovingandstorage.com/contacts.php on line 294
+[01-Jul-2023 14:58:27 America/New_York] PHP Warning:  A non-numeric value encountered in /home/crosekoh/joesmovingandstorage.com/contacts.php on line 295
+[01-Jul-2023 14:58:27 America/New_York] PHP Warning:  A non-numeric value encountered in /home/crosekoh/joesmovingandstorage.com/contacts.php on line 296
+[01-Jul-2023 14:59:45 America/New_York] PHP Warning:  A non-numeric value encountered in /home/crosekoh/joesmovingandstorage.com/contacts.php on line 346
+[01-Jul-2023 14:59:45 America/New_York] PHP Warning:  A non-numeric value encountered in /home/crosekoh/joesmovingandstorage.com/contacts.php on line 347
+[01-Jul-2023 14:59:45 America/New_York] PHP Warning:  A non-numeric value encountered in /home/crosekoh/joesmovingandstorage.com/contacts.php on line 348
+[01-Jul-2023 14:59:45 America/New_York] PHP Warning:  A non-numeric value encountered in /home/crosekoh/joesmovingandstorage.com/contacts.php on line 349
+[13-Jul-2023 20:48:18 UTC] PHP Warning:  A non-numeric value encountered in /home/sunbnjwr/oaksfasttrack.com/contacts.php on line 346
+[13-Jul-2023 20:48:18 UTC] PHP Warning:  A non-numeric value encountered in /home/sunbnjwr/oaksfasttrack.com/contacts.php on line 347
+[13-Jul-2023 20:48:18 UTC] PHP Warning:  A non-numeric value encountered in /home/sunbnjwr/oaksfasttrack.com/contacts.php on line 348
+[13-Jul-2023 20:48:18 UTC] PHP Warning:  A non-numeric value encountered in /home/sunbnjwr/oaksfasttrack.com/contacts.php on line 349
+[13-Jul-2023 21:50:14 UTC] PHP Warning:  A non-numeric value encountered in /home/sunbnjwr/oaksfasttrack.com/contacts.php on line 346
+[13-Jul-2023 21:50:14 UTC] PHP Warning:  A non-numeric value encountered in /home/sunbnjwr/oaksfasttrack.com/contacts.php on line 347
+[13-Jul-2023 21:50:14 UTC] PHP Warning:  A non-numeric value encountered in /home/sunbnjwr/oaksfasttrack.com/contacts.php on line 348
+[13-Jul-2023 21:50:14 UTC] PHP Warning:  A non-numeric value encountered in /home/sunbnjwr/oaksfasttrack.com/contacts.php on line 349
+[13-Jul-2023 23:39:50 UTC] PHP Warning:  A non-numeric value encountered in /home/sunbnjwr/oaksfasttrack.com/contacts.php on line 346
+[13-Jul-2023 23:39:50 UTC] PHP Warning:  A non-numeric value encountered in /home/sunbnjwr/oaksfasttrack.com/contacts.php on line 347
+[13-Jul-2023 23:39:50 UTC] PHP Warning:  A non-numeric value encountered in /home/sunbnjwr/oaksfasttrack.com/contacts.php on line 348
+[13-Jul-2023 23:39:50 UTC] PHP Warning:  A non-numeric value encountered in /home/sunbnjwr/oaksfasttrack.com/contacts.php on line 349
+[22-Jul-2023 21:38:36 UTC] PHP Warning:  A non-numeric value encountered in /home/sunbnjwr/oaksfasttrack.com/contacts.php on line 346
+[22-Jul-2023 21:38:36 UTC] PHP Warning:  A non-numeric value encountered in /home/sunbnjwr/oaksfasttrack.com/contacts.php on line 347
+[22-Jul-2023 21:38:36 UTC] PHP Warning:  A non-numeric value encountered in /home/sunbnjwr/oaksfasttrack.com/contacts.php on line 348
+[22-Jul-2023 21:38:36 UTC] PHP Warning:  A non-numeric value encountered in /home/sunbnjwr/oaksfasttrack.com/contacts.php on line 349
+[25-Jul-2023 09:03:30 UTC] PHP Warning:  A non-numeric value encountered in /home/sunbnjwr/oaksfasttrack.com/contacts.php on line 346
+[25-Jul-2023 09:03:30 UTC] PHP Warning:  A non-numeric value encountered in /home/sunbnjwr/oaksfasttrack.com/contacts.php on line 347
+[25-Jul-2023 09:03:30 UTC] PHP Warning:  A non-numeric value encountered in /home/sunbnjwr/oaksfasttrack.com/contacts.php on line 348
+[25-Jul-2023 09:03:30 UTC] PHP Warning:  A non-numeric value encountered in /home/sunbnjwr/oaksfasttrack.com/contacts.php on line 349
