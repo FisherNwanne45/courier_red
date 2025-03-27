@@ -70,9 +70,13 @@
                         <div class="footer-content">
                             <div class="contact-section" style="font-size: 15px;">
                                 <h4><?php echo $row['name']; ?></h4>
+                                <?php if (!empty($row['phone'])): ?>
                                 <p class="pb-4"><strong>Phone :</strong> <?php echo $row['phone']; ?> </p>
+                                <?php endif; ?>
+                                <?php if (!empty($row['email'])): ?>
                                 <p class="pb-4"><strong>Email : </strong> <?php echo $row['email']; ?> <a
                                         href="mailto:<?php echo $row['email']; ?>"> </a></p>
+                                <?php endif; ?>
                             </div>
                         </div>
                         <a href="contact" class="button-normal white">CONTACT US</a>
