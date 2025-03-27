@@ -646,7 +646,7 @@ Fetching Result for Tracking Number: " . $cid . "...
             if ($i == 0) {
                 echo " <br><br> <hr><h4 class='title-1' align=center>No Results Found</h4>
     
-    <br> <a href='../index.php' ><p  align=center>&#x1F50D; Try a New Search</p></a>";
+    <br> <a href='../tracking.php' ><p  align=center>&#x1F50D; Try a New Search</p></a>";
             }
             ?>
             <script>
