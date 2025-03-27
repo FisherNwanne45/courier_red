@@ -195,14 +195,14 @@ require_once('resources/config.php');
                                                     <span class="heading">Opening Hours</span>
                                                     <span> 09.00 - 17.00</span>
                                                 </p>
-                                            </li>
+                                            </li><?php if (!empty($row['phone'])): ?>
                                             <li>
                                                 <i class="fa fa-phone"></i>
                                                 <p>
                                                     <span class="heading">Call Us</span>
                                                     <span><?php echo $row['phone']; ?></span>
                                                 </p>
-                                            </li>
+                                            </li><?php endif; ?>
                                             <li class="last">
                                                 <i class="fa fa-envelope"></i>
                                                 <p>
