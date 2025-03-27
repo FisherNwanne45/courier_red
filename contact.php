@@ -44,13 +44,18 @@
                     <div class="contact-details col-md-4" style="font-size: 15px;">
                         <div class="address wow fadeInLeft" data-wow-delay="0.3s">
                             <h4 class="title">reach us</h4>
+                            <?php if (!empty($row['phone'])): ?>
                             <p class="pb-4"><strong><i class="fa fa-phone"></i></a></li></strong> :
                                 <?php echo $row['phone']; ?> </p>
+                            <?php endif; ?>
+                            <?php if (!empty($row['email'])): ?>
                             <p class="pb-4"><strong><i class="fa fa-envelope"></i></a></li></strong> :
                                 <?php echo $row['email']; ?></p>
-
+                            <?php endif; ?>
+                            <?php if (!empty($row['addr'])): ?>
                             <p class="pb-4"><strong><i class="fa fa-map-marker"></i></a></li></strong> :
                                 <?php echo $row['addr']; ?></p>
+                            <?php endif; ?>
                         </div>
 
                         <?php if (!empty($row['phone2']) || !empty($row['email2']) || !empty($row['addr2'])): ?>
